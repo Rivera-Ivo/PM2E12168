@@ -1,5 +1,10 @@
 package com.example.pm2e12168;
 
+/* Examen Programacion movil Primer paracial
+ * Ivo Alejandro Rivera 223081021
+ * Ana Leticia Montes 2120010068
+ * */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.ContentValues;
